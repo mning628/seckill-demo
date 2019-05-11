@@ -1,5 +1,5 @@
-Simple seckill demo
-基于springboot+redis+rabbitmq+jpa实现的后台简易demo
+基于springboot+redis+rabbitmq+jpa实现的后台秒杀功能简易demo
+
 数据库语句查看sql文件夹
 
 项目运行步骤：
