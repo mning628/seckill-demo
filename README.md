@@ -17,6 +17,4 @@
 3、手动将t_seckill_product_info记录到redis中  
    例：set 1 50
    
-4、test目录下有一个main函数，可以模拟秒杀请求。
-
-5、查看商品是否有超卖，进行验证即可！
+4、test目录下有一个main函数，可以模拟并发秒杀请求。
