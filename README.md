@@ -1,5 +1,10 @@
 基于springboot+redis+rabbitmq+jpa实现的后台秒杀功能简易demo
 
+秒杀流程图（网上copy）
+![image text](https://github.com/mning628/my_image/blob/master/image/seckill.png)
+
+
+
 数据库语句查看sql文件夹
 
 项目运行步骤：
@@ -15,8 +20,3 @@
 4、test目录下有一个main函数，可以模拟秒杀请求。
 
 5、查看商品是否有超卖，进行验证即可！
-
-
-
-秒杀流程图（网上copy）
-![image text](https://github.com/mning628/my_image/blob/master/image/seckill.png)
