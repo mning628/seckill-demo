@@ -5,7 +5,8 @@ Simple seckill demo
 项目运行步骤：
 1、将application.properties中数据库，redis，rabbitmq修改为自己环境信息
 
-2、在数据库t_seckill_product_info中任意预置一条数据，
+2、在数据库t_seckill_product_info中任意预置一条数据
+
    例：INSERT INTO `second_kill`.`t_seckill_product_info` (`id`, `product_name`, `product_num`) VALUES ('1', '测试商品', '50');
    
 3、手动将t_seckill_product_info记录到redis中  
